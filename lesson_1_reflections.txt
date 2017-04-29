@@ -1,0 +1,32 @@
+By being directly able to compare the two versions of the program and see
+what was removed and/or added, it becomes much easier to spot the changes and
+the program's forward deltas.
+
+Easy access to the entire history of the file makes you a more efficient
+programmer because you are aware of everything that has happened during
+the development of the program and are therefore to recall much more
+quickly what was done, what needs to be done, the way in which it has
+progressed through time and the different approaches taken to solve problems,
+thereby facilitating the revision or upgrade of the program.
+
+Manual control: Some of the cons are the programmer's ability to forget to
+commit, to do it too big or too small but the pros are far superior. The
+developer has total control of what he wants to commit and what he feels is
+worth making an extra checkpoint in the project or not. As of right now, for
+machines to make these judgement calls is extremely hard, which is why it is
+better when humans do it.
+
+Multiple-file saving: I think Git allows these because, specially in programming
+assignments, unlike Google Docs, files are interrelated and their functionality
+is not independent of other files. This is why it is necessary to have
+the group of files necessary for the program/application to work correctly.
+
+Confidence about changes: Using version control would make me more confident to
+make changes that could brake something because I know my program is
+"backed up" and even if something were to happen i.e. a bug accidentally
+introduced, it still doesn't matter because I have a log history,
+I can see what has changed and can go back to any older, functional, bug-free
+version if needed.
+
+I want to try using git for my future android app development as well as for
+the SWT lecture from KIT. 
