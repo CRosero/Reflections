@@ -1,0 +1,9 @@
+What happens after initialization: A new empty repository is created,
+in which files or other documents will have to be committed.
+
+Difference staging area: Well this area is different because it serves as
+the preparation stage for the commits and serves as a bridge between what you
+are working on and will actually be committed. I find it good because it serves
+as an assurance that the files you want to commit are actually the intended ones,
+giving you a chance to think about the changes you are about to make
+in a more thorough fashion
