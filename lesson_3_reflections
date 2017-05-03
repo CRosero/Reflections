@@ -1,4 +1,24 @@
-Remote repository rather than local? 
-You would want to use a remote repository rather than local when working on a private project with others,
-as well as working on a public/open-source project where you would like to make changes/contributions. 
+Remote repository rather than local?
+You would want to use a remote repository rather than local when working on a
+private project with others, as well as working on a public/open-source project
+where you would like to make changes/contributions.
 
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+Because some files might be edited which affect the functionality of the code
+you are working on, some unwished/unplanned changes might take place, which is
+why it is better when it is manual. Also i.e. in an open source project it is
+not good for the project's code you are working on to be synced/connected
+to the hundreds/thousands/millions of people who are working on it.
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+Forks are basically "cloning and citing" on GitHub, allowing you to clone
+another repository but have a link citing where this originally comes from,
+with the benefit of allowing you to make personal changes.
+
+Clones basically copy everything on the repository, and branches are meant to
+help in dividing up projects when bug fixes, variations, and other similar
+type of assignments are being worked on, so as to keep the working/original/
+"master" code intact. 
