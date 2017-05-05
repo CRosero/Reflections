@@ -25,6 +25,13 @@ type of assignments are being worked on, so as to keep the working/original/
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-
 You are up to date on all changes to the code and can therefore access it
-regardless of internet connection or not. 
+regardless of internet connection or not.
+
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+Without using Git or GitHub the other alternative would be sending each other
+emails back and forth, which would make it extremely difficult to keep track
+of all the different changes and versions. Really without Git and such
+version control platforms software development could not be anywhere near
+to where it is today. 
