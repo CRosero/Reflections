@@ -21,4 +21,10 @@ with the benefit of allowing you to make personal changes.
 Clones basically copy everything on the repository, and branches are meant to
 help in dividing up projects when bug fixes, variations, and other similar
 type of assignments are being worked on, so as to keep the working/original/
-"master" code intact. 
+"master" code intact.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+You are up to date on all changes to the code and can therefore access it
+regardless of internet connection or not. 
