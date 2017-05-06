@@ -34,4 +34,10 @@ Without using Git or GitHub the other alternative would be sending each other
 emails back and forth, which would make it extremely difficult to keep track
 of all the different changes and versions. Really without Git and such
 version control platforms software development could not be anywhere near
-to where it is today. 
+to where it is today.
+
+When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+I would want to do that when perhaps fixing a bug or working on a part of the
+program that I know will most probably not change and has therefore relative
+independence from the program in the master branch.
